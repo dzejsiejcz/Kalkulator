@@ -10,7 +10,7 @@ public class Calculator {
 
     public int subtraction (int c, int d) {
         int subtractionCD = c-d;
-        System.out.println(subtractionCD);
+        System.out.println(subtractionCD + "ok");
         return subtractionCD;
     }
     public static void main (String[] args) {
