@@ -17,6 +17,6 @@ public class Calculator {
         Calculator calculator = new Calculator();
         calculator.addition(5,6);
         calculator.subtraction(5,6);
-    };
+    }
 
 }
